@@ -1,0 +1,37 @@
+.Home .lander {
+	padding: 80px 0;
+	text-align: center;
+}
+
+.Home .lander h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 1000;
+	font-size: 45px;
+	color:teal;
+}
+
+.Home .lander p {
+	color: black;
+	
+   
+}
+body{
+background: url('https://149362230.v2.pressablecdn.com/wp-content/uploads/2018/08/coursera-social-logo.png') no-repeat center center fixed;
+background-size: cover;
+}
+
+  
+  ul {
+	margin: 0;
+	padding: 0;
+  }
+  html {
+	font-size: 62.5%;
+  }
+p{
+	font-size: large;
+	font-style:normal;
+	font-display:inherit;
+	font-weight: 700;
+
+}
